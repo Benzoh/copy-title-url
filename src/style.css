@@ -1,0 +1,35 @@
+body {
+  background-color: #343a40;
+  color: #fff;
+  width: 500px;
+  height: auto;
+  /* border: solid 2px #17a2b8; */
+}
+
+header {
+  padding: 15px;
+}
+
+.main {  
+  border-right: solid 1px #343a40;
+  border-left: solid 1px #343a40;
+  color: #333;
+  padding: 15px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+textarea {
+  resize: none;
+  overflow: hidden;
+}
+
+.cute {
+  font-size: 14px;
+}
+
+footer {
+  height: 1px;
+  /* padding: 10px 15px; */
+  font-size: 12px;
+}
